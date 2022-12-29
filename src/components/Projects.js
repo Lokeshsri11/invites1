@@ -43,12 +43,12 @@ export const Projects = () => {
 
 
 
-                      <div className="App">
+//                       <div className="App">
                         {/* <h2>Invite Video<a href=""></a></h2> */}
                         <ReactPlayer
                           url="https://www.youtube.com/watch?v=HBxSmhigFQk&list=PLxNKsHD8bM1m0XLQIBGnXNApencPe-XwK&index=3"
                         />
-                      </div>
+//                       </div>
 
                       {/* <Nav.Item>
                         <Nav.Link eventKey="first">Play Invite</Nav.Link>
